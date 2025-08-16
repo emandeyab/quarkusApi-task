@@ -14,19 +14,11 @@ This is a simple RESTful API application built with Quarkus to manage a list of 
 - Maven (for building the project).
 - Postman (for testing the API).
 
-## Setup Instructions
-1. **Clone the Repository** (if applicable):
-   ```
-   git clone <https://github.com/emandeyab/quarkusApi-task.git>
-  
-   ```
+## Running the application
+You can run the application in dev mode that enables live coding using: 
+
 2. **Build the Project**:
-   ```
-   ./mvnw clean install
-   ```
-3. **Run the Application**:
-   ```
-   ./mvnw quarkus:dev
-   ```
+   ```./mvnw quarkus:dev``` or  ```mvn quarkus:dev```
+
    The application will start on `http://localhost:8080`.
 
