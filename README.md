@@ -17,7 +17,6 @@ This is a simple RESTful API application built with Quarkus to manage a list of 
 ## Running the application
 You can run the application in dev mode that enables live coding using: 
 
-2. **Build the Project**:
    ```./mvnw quarkus:dev``` or  ```mvn quarkus:dev```
 
    The application will start on `http://localhost:8080`.
