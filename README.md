@@ -19,5 +19,5 @@ You can run the application in dev mode that enables live coding using:
 
    ```./mvnw quarkus:dev``` or  ```mvn quarkus:dev```
 
-   The application will start on `http://localhost:8080`.
+   The application will start on `http://localhost:8080/products`.
 
