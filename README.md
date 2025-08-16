@@ -17,8 +17,8 @@ This is a simple RESTful API application built with Quarkus to manage a list of 
 ## Setup Instructions
 1. **Clone the Repository** (if applicable):
    ```
-   git clone <repository-url>
-   cd quarkus-crud
+   git clone <https://github.com/emandeyab/quarkusApi-task.git>
+  
    ```
 2. **Build the Project**:
    ```
